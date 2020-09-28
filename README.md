@@ -14,7 +14,7 @@
 3. Now, type<br>`.\GovNaB\Scripts\activate`<br>and press enter.
     - if you are having Error while _activating virtual environment_ then open _command prompt_ or _powershell window_ as _administrator_.
     - now type<br>`set-executionpolicy remotesigned`<br>press enter and repeat _step 3_.
-4. After activating _virtual environment_, the _path_ should look like this ```(GovNaB) .\<your-path>\GovNaB_Desktop_Voice_Assisstant```.
+4. After activating _virtual environment_, the _path_ should look like this<br>```(GovNaB) .\<your-path>\GovNaB_Desktop_Voice_Assisstant```.
 5. Run the Project using this<br>`python GovNaB.py`.
 6. If you would like to see the _commands_ which works properly then open **workingCommands.csv** file.
 
