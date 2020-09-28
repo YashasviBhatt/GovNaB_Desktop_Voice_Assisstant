@@ -1,0 +1,11 @@
+open google
+open youtube
+<topic name> wikipedia
+what is / who are <topic name>
+what's the time
+what is your name / who are you
+open pycharm / open visual / open vscode / open code / pycharm / code / vscode      [Set the Path first]
+exit / bye / quit / close
+thanks / thank you
+
+otherwise it will randomly fetch results
